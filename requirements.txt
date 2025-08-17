@@ -1,0 +1,6 @@
+langgraph
+langchain-community
+black
+isort
+python-dotenv
+rich
